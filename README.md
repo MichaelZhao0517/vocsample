@@ -1,0 +1,2 @@
+# vocsample
+voc
